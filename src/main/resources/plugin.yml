@@ -1,0 +1,4 @@
+name: Stalker
+version: '${project.version}'
+main: com.labo.teches.stalker.Stalker
+api-version: 1.16
